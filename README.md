@@ -41,16 +41,8 @@ This project is a modern, full-stack web application developed with the MERN sta
 - A Google Developer Console project for OAuth setup.
 
 ### Installation Steps
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd OLP_MERN
-   ```
-3. Install the required dependencies for both frontend and backend:
+  
+1. Install the required dependencies for both frontend and backend:
    ```bash
    cd client
    npm install
